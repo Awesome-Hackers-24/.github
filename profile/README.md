@@ -8,10 +8,14 @@ The processed data is visualized in real-time through a Flutter-based applicatio
 Users get daily challenges; for example to stay in a concentration state for a defined period of time. The challenge results and the data is displayed on a dashboard and stored on the MultiversX blockchain where the users own it and can decide to share/sell it for research purposes.
 
 # Demo:
-https://youtu.be/3JRxPgbHvnY
+https://github.com/Awesome-Hackers-24/.github/assets/36332898/1ae039c1-456a-406f-8a2d-4a894e18e4b8
 
 Tech Stack:
 ***BCI Integration***: Python + Supabase
+
+
+
+
 
 ***Signal processing***: Flutter + Supabase
 
