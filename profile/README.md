@@ -1,5 +1,5 @@
 # Cognify 
-is a multi-platform app that helps you improve your cognitive functions such as Concentration, Attention and Relaxation.
+Cognify is a multi-platform app that helps you improve your cognitive functions such as Concentration, Attention and Relaxation.
 
 This project leverages an OpenBCI Cyton board to acquire EEG data from a wearable headset, processing the signals using an ESP32 microcontroller to determine levels of attention, concentration, and stress. 
 
