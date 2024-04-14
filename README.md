@@ -1,6 +1,4 @@
-# .github
-
-#Cognify
+# Cognify
 is a multi-platform app that helps you improve your cognitive functions such as Concentration, Attention and Relaxation.
 
 This project leverages an OpenBCI Cyton board to acquire EEG data from a wearable headset, processing the signals using an ESP32 microcontroller to determine levels of attention, concentration, and stress. 
@@ -19,3 +17,6 @@ Tech Stack:
 ***MultiversX SC***: Rust
 
 <img width="1013" alt="Screenshot 2024-04-12 at 18 24 55" src="https://github.com/Awesome-Hackers-24/.github/assets/36332898/5d56ace8-36a0-481c-831a-929b65030388">
+
+# Demo:
+
